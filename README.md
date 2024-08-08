@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
 <h3 align="center">Web developer from Egypt</h3>
-<img align="right" alt="coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed23220033&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed23220033" /> </p>
-<p align="left"> <img src="https://miro.medium.com//ghpvc/?username=mohamed23220033&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed23220033" /> </p>
+
 
 
 

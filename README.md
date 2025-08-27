@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6ED9FF&&width=435&lines=Software+engineer%7CWeb+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6ED9FF&&width=500&lines=Software+engineer%7CWeb+developer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Software engineer|Web developer from Egypt</h3>
 <img align="right" alt="coding" width="200" src="https://media1.giphy.com/media/zhYSVCirREeIZtONCI/200.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed23220033&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed23220033" /> </p>
 
